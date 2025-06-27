@@ -35,5 +35,5 @@ picoCTF{s4n1ty_v3r1f13d_4a2b35fd}
 
 ## Screenshot of Terminal
 
-![picoCTF-Writeups-MayankQuery/images/Obidient_Cat_Terminal.png](https://github.com/MayankQuery/picoCTF-Writeups-MayankQuery/blob/main/images/Obidient_Cat_Terminal.png)
+![[picoCTF-Writeups-MayankQuery/images/Obidient_Cat_Terminal.png](https://github.com/MayankQuery/picoCTF-Writeups-MayankQuery/blob/main/images/Obidient_Cat_Terminal.png)](https://github.com/MayankQuery/picoCTF-Writeups-MayankQuery/blob/main/Images/Obidient_Cat_Terminal.png?raw=true)
 
