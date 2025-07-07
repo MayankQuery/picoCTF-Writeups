@@ -30,7 +30,7 @@
    ls
    cat flag
 
-# Output Flag:
+## Output Flag:
 picoCTF{s4n1ty_v3r1f13d_4a2b35fd}
 
 ## Screenshot of Terminal
