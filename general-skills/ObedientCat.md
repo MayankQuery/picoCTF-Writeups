@@ -35,5 +35,5 @@ picoCTF{s4n1ty_v3r1f13d_4a2b35fd}
 
 ## Screenshot of Terminal
 
-![General Skills](https://github.com/MayankQuery/picoCTF-Writeups/tree/main/general-skills/images)
+![General Skills](https://github.com/MayankQuery/picoCTF-Writeups/blob/main/general-skills/images/Obidient_Cat_Terminal.png)
 
